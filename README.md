@@ -1,5 +1,5 @@
 
-: [![MasterHead](https://wallpapercave.com/wp/wp9641832.jpg)
+![MasterHead](https://wallpapercave.com/wp/wp9641832.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Yiğit Kaan Akdeniz</h1>
